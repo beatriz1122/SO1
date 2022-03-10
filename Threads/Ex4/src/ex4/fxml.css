@@ -1,0 +1,38 @@
+.label.linhachegada{
+    -fx-background-image: url("C:\Users\beatr\OneDrive\Documentos\NetBeansProjects\Ex4\src\imagens/linha_chegada.png");
+    -fx-pref-width:10px;
+    -fx-pref-height:200px;
+}
+.button.bandeira {
+    -fx-pref-width:37px;
+    -fx-pref-height:38px;
+}
+.button.sonicc {
+    -fx-background-image: url("C:\Users\beatr\OneDrive\Documentos\NetBeansProjects\Ex4\src\imagens/sonicc");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.sonic {
+    -fx-background-image: url("C:\Users\beatr\OneDrive\Documentos\NetBeansProjects\Ex4\src\imagens/200.gif");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.tails {
+    -fx-background-image: url("C:\Users\beatr\OneDrive\Documentos\NetBeansProjects\Ex4\src\imagens/tails.gif");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.tails1 {
+    -fx-background-image: url("C:\Users\beatr\OneDrive\Documentos\NetBeansProjects\Ex4\src\imagens/tails-fox.gif");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.tails2 {
+    -fx-background-image: url("C:\Users\beatr\OneDrive\Documentos\NetBeansProjects\Ex4\src\imagens/tails-sonic.gif");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}

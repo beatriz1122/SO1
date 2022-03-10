@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="535.0" prefWidth="729.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ex4.FXMLDocumentController">
+ <children>
+      <Label layoutX="110.0" layoutY="14.0" text="Corrida de Cavalos Utilizando Threads">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font></Label>
+      <Button fx:id="ini" layoutX="43.0" layoutY="56.0" mnemonicParsing="false" onAction="#handleButonini" prefHeight="25.0" prefWidth="52.0" styleClass="bandeira" text="Iniciar" />
+      <Button fx:id="per2" layoutX="28.0" layoutY="102.0" mnemonicParsing="false" prefHeight="80.0" prefWidth="82.0" styleClass="sonicc" />
+      <Button fx:id="per1" layoutX="28.0" layoutY="182.0" mnemonicParsing="false" prefHeight="80.0" prefWidth="82.0" styleClass="sonic" />
+      <Button fx:id="per3" layoutX="28.0" layoutY="264.0" mnemonicParsing="false" prefHeight="80.0" prefWidth="82.0" styleClass="tails" />
+      <Button fx:id="per4" layoutX="28.0" layoutY="344.0" mnemonicParsing="false" prefHeight="80.0" prefWidth="82.0" styleClass="tails1" />
+      <Button fx:id="per5" layoutX="28.0" layoutY="429.0" mnemonicParsing="false" prefHeight="80.0" prefWidth="82.0" styleClass="tails2" />
+      <Label fx:id="labelLinhaChegada" layoutX="400.0" layoutY="102.0" prefHeight="202.0" prefWidth="20.0" styleClass="linhachegada" />
+   </children>
+</AnchorPane>
